@@ -15,6 +15,7 @@
 ## 데이터 예제
 [class cx cy width height]
 class는 0(섹션명1), 1(섹션명2), 2(섹션명3) 으로 구성
+![목차생성](https://github.com/user-attachments/assets/06c2c49d-899f-48e6-a1f8-0dca3b6d78af)
 
 
 ## 데이터 구축 방법
